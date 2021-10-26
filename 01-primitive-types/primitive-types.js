@@ -1,4 +1,4 @@
-var numberA = 1;
+var numberA = 8;
 var numberB = 7;
 
 var operationA = numberA + numberB;
