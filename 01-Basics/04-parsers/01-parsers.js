@@ -10,6 +10,6 @@ let numb = {
 const numbS = {
     value: 150
 };
-numbS.value = 200;
+numbS = numb;
 console.log(numb.value == numbS.value); //true
 //console.log(+numb === numbS);

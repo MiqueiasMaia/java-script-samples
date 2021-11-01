@@ -1,5 +1,5 @@
 var variavelUm = 'ABC';
-var VARIAVELDOIS = 'AEIOU';
+var VARIAVELUM = 'AEIOU';
 var variavelum = 'XPTO';
 
-console.log(variavelUm, VARIAVELDOIS, variavelum);
+console.log(variavelUm, VARIAVELUM, variavelum);
